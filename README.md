@@ -208,8 +208,3 @@ The analysis highlights opportunities to improve customer retention, understand 
 
 ---
 
-**Project:** IKEA Customer Analytics
-
-**Category:** Data Analytics | Business Intelligence
-
-**Technologies:** SQL | Python (Pandas) | Power BI
